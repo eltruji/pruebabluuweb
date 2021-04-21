@@ -162,7 +162,7 @@
     "xdg-basedir": "^4.0.0"
   },
   "scripts": {
-    "test": "node app"
+    "start": "node app"
   },
   "keywords": [],
   "author": "",
